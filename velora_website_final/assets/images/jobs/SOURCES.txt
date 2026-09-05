@@ -1,0 +1,5 @@
+Velora RP job image sources
+============================
+politiejob.png     -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDU3QiSxrqYqya9zJ0c21LMSef8HhcyQhoDKOrllbQ3A&s=10 (kept as requested remote source)
+ambulancejob.png   -> uploaded by user (ambulance screenshot)
+mechanicjob.png    -> removed; mechanic job remains without a photo

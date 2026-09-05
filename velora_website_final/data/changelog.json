@@ -1,0 +1,166 @@
+[
+  {
+    "id": "server-1",
+    "version": "v1.0.0",
+    "category": "Server",
+    "title": "Grote serverupdate",
+    "date": "31 augustus 2026",
+    "time": "Vandaag",
+    "emoji": "🚀",
+    "description": "Een flinke update met nieuwe systemen, fixes en verbeteringen voor de stad.",
+    "details": [
+      [
+        "🏦",
+        "OkokBankingV2",
+        "Volledig vertaald en werkend."
+      ],
+      [
+        "📱",
+        "LB-Phone",
+        "Nieuw toegevoegd aan de stad."
+      ],
+      [
+        "🔫",
+        "Wapencraft",
+        "Nieuwe wapencraft-locatie ingesteld."
+      ],
+      [
+        "⛓️",
+        "Taakstraffen",
+        "Gefixt en opnieuw werkend gemaakt."
+      ],
+      [
+        "🏪",
+        "Winkels",
+        "Shopkeeper-peds toegevoegd voor meer realisme."
+      ],
+      [
+        "🎰",
+        "Casino",
+        "Toegevoegd en momenteel in testfase."
+      ],
+      [
+        "📻",
+        "Radio",
+        "Radiosysteem werkt; via NAMEINRADIO kun je je naam aanpassen."
+      ],
+      [
+        "📊",
+        "Scoreboard",
+        "Scoreboard is volledig werkend."
+      ],
+      [
+        "🧪",
+        "Cocaïne",
+        "Plukken én verpakken zijn gefixt en werken."
+      ],
+      [
+        "🛡️",
+        "Staff reports",
+        "Reports behandelen kan alleen nog via /staffzaak, zodat staff niet ongewenst wordt geteleporteerd."
+      ],
+      [
+        "🎬",
+        "Loading screen",
+        "Volledig custom loading screen toegevoegd."
+      ],
+      [
+        "🟧",
+        "Multichar",
+        "Oranje accenten toegevoegd."
+      ],
+      [
+        "👁️",
+        "OX Inventory",
+        "Nieuwe OX-kleuraccenten en een interactief gekleurd oogje."
+      ],
+      [
+        "🏛️",
+        "Stadhuis",
+        "Stadhuis-fixes doorgevoerd."
+      ],
+      [
+        "🚛",
+        "Truckerjob",
+        "Nieuwe truckerjob toegevoegd."
+      ]
+    ]
+  },
+  {
+    "id": "website-1",
+    "version": "v1.0.1",
+    "category": "Website",
+    "title": "Velora RP website vernieuwd",
+    "date": "31 augustus 2026",
+    "time": "Vandaag",
+    "emoji": "🖥️",
+    "description": "De publieke website heeft een nieuwe Belgische Velora RP uitstraling gekregen, met een duidelijke structuur en interactieve pagina’s.",
+    "details": [
+      [
+        "🇧🇪",
+        "Belgische identiteit",
+        "Belgische FiveM RP-copy, stijl en content doorheen de website."
+      ],
+      [
+        "🧭",
+        "Navigatie",
+        "Over ons, Features en Community met een geanimeerde dropdown."
+      ],
+      [
+        "👥",
+        "Ons team",
+        "Aparte teampagina met Jay, Mango, Niloh, Yelthe en Wout."
+      ],
+      [
+        "💼",
+        "Jobs",
+        "Klikbare jobs voor Politie, Ambulance, Mechanieker, Crimineel en Ondernemer."
+      ],
+      [
+        "📝",
+        "Changelog",
+        "Nieuwe aparte changelogpagina met interactieve updates en animaties."
+      ],
+      [
+        "🎬",
+        "Trailer",
+        "Trailer-knop en fullscreen modal voorbereid voor de echte trailer."
+      ],
+      [
+        "🟢",
+        "Live status",
+        "Compacte serverstatus/player teller in de bovenbalk."
+      ],
+      [
+        "💬",
+        "Discord",
+        "Discord CTA’s gekoppeld aan de Velora-community."
+      ],
+      [
+        "🎥",
+        "Social video",
+        "Eén videocamera-knop naar jullie TikTok-kanaal."
+      ],
+      [
+        "✨",
+        "Animations",
+        "Oranje hover-glows, reveal-animaties en soepelere interactieve elementen."
+      ],
+      [
+        "📱",
+        "Responsive",
+        "Layout en navigatie verder afgestemd op mobiel en tablet."
+      ],
+      [
+        "⚖️",
+        "Regels",
+        "Algemene FiveM-basisregels als tijdelijke start toegevoegd."
+      ],
+      [
+        "©️",
+        "Footer",
+        "Logo hersteld en “Alle rechten voorbehouden.” toegevoegd."
+      ]
+    ]
+  }
+]
